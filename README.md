@@ -14,6 +14,7 @@
   <img align="center" alt="Ed-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ed-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ed-Nd" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png">
+   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Ed-Wizard-Guitar" height="150" src="https://c.tenor.com/YAf2ddXNnQUAAAAd/wizard-air-guitar-wizard.gif" >
 
 </div>
